@@ -40,7 +40,8 @@ This project is a pixel-perfect clone of the YouTube homepage designed to practi
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/youtube-clone-html-css.git
+   git clone https://github.com/hirthickroshangk/youtube-clone-html-css.git
+
   
 
 Feel free to reach out for feedback or collaboration:
