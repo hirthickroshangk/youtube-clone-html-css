@@ -16,7 +16,7 @@ This project is a pixel-perfect clone of the YouTube homepage designed to practi
 - Clean and semantic HTML structure  
 - Styled with CSS3 including flexbox for layout  
 - Organized and readable code for easy maintenance  
-- (Optional) Responsive design for multiple screen sizes  
+- Media Queries for responsive design
 
 ---
 
@@ -29,7 +29,7 @@ This project is a pixel-perfect clone of the YouTube homepage designed to practi
 
 ## What I Learned
 
-- How to break down a real-world website into reusable components  
+- How to break down a real-world website into reusable components and replicate them easily 
 - Practical application of CSS Flexbox for layout design  
 - Writing semantic and accessible HTML code  
 - Best practices for CSS organization and styling  
